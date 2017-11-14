@@ -21,6 +21,10 @@
     "@angular/platform-browser": "^5.0.0",
     "@angular/platform-browser-dynamic": "^5.0.0",
     "@angular/router": "^5.0.0",
+    "aframe": "^0.7.1",
+    "aframe-animation-component": "^3.2.5",
+    "aframe-fireball-component": "^1.2.2",
+    "aframe-starnest-component": "^0.0.1",
     "core-js": "^2.4.1",
     "rxjs": "^5.5.2",
     "zone.js": "^0.8.14"
